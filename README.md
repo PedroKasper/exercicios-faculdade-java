@@ -1,2 +1,2 @@
 # exercicios-faculdade-java
-Repositório para armazenamento de exercícios do curso de Ciência da Computação na linguagem de programaçaõ Java.
+Repositório para armazenamento de exercícios do curso de Ciência da Computação na linguagem de programação Java.

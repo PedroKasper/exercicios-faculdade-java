@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Carta
+comment1.params=naipe\ valor\ simbolo\ coringa
+comment1.target=Carta(java.lang.String,\ int,\ char,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ getNaipe()
+comment3.params=naipe
+comment3.target=void\ setNaipe(java.lang.String)
+comment4.params=
+comment4.target=int\ getValor()
+comment5.params=valor
+comment5.target=void\ setValor(int)
+comment6.params=
+comment6.target=char\ getSimbolo()
+comment7.params=simbolo
+comment7.target=void\ setSimbolo(char)
+comment8.params=
+comment8.target=boolean\ isCoringa()
+comment9.params=coringa
+comment9.target=void\ setCoringa(boolean)
+numComments=10
